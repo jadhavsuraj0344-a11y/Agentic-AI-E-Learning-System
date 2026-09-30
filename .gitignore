@@ -1,0 +1,16 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Database
+elearning.db
+database/
+
+# Uploads
+uploads/
+
+# IDE
+.vscode/
+.idea/
